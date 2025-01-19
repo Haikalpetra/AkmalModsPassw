@@ -1,4 +1,9 @@
 {
+    "users": [
+     {
+       " password": "Kontol"
+      }
+     ]
     "filename": "index.js",
     "access": [
         "6283895488404",
